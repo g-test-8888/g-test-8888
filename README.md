@@ -29,7 +29,7 @@ To use Font Awesome Elite, you can use its CDN links :
 html
 
 
-Copy the `link` element that serves Font Awesome Elite's core CSS file (**fontawesome.css**) and the `link` element or elements that serve the other CSS file (for example **solid.css**) or files (for example **duotone-light.css**, **light.css**, **thin.css**, etc.) you want to use, inside the `head` element of your project.
+Copy the <link> element that serves Font Awesome Elite's core CSS file (*fontawesome.css*) and the <link> element or elements that serve the other CSS file (for example *solid.css) or files (for example **duotone-light.css, **light.css, **thin.css*, etc.) you want to use, inside the <head> element of your project.
 
 ***
 
