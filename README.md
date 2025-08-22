@@ -20,6 +20,8 @@ Thus, Font Awesome Elite uses the Font Awesome documentation.
 
 To use Font Awesome Elite, use its CDN links or download it locally.
 
+### Using CDN :
+
 ***
 
 ## License
