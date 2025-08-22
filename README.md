@@ -26,7 +26,9 @@ Font Awesome Elite uses [jsDelivr](https://jsdelivr.com) for CDN.
 
 To use Font Awesome Elite, you can use its CDN links :
 
-html
+```html
+<link rel="stylesheet" href="cdn.jsdelivr.net/gh/gh-user/g-test-8888/g-test-8888/fontawesome.css">
+```
 
 
 Copy the `<link>` element that serves Font Awesome Elite's core CSS file (**fontawesome.css**) and the `<link>` element or elements that serve the other CSS file (for example **solid.css**) or files (for example **duotone-light.css**, **light.css**, **thin.css**, etc.) you want to use, inside the `<head>` element of your project.
