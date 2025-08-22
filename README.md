@@ -62,6 +62,14 @@ To use Font Awesome Elite, you can use its CDN links :
 
 Copy the `<link>` element that serves the core CSS file (**fontawesome.css**) of Font Awesome Elite's and the `<link>` element that serves the CSS file (*for example **light.css***) of the icon family you want to use, or the `<link>` elements that serves the CSS files (*for example **thin.css**, **duotone-thin.css**, **notdog-solid.css**, etc.*) of the icon families you want to use, inside the `<head>` element of your project.
 
+If you are going to use all icon families in your project, copy the `<link>` element that serves the **fontawesome-elite.css** file, which contains the CSS files for all icon families, into the `<head>` element of your project :
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/elmarmehrabov/Font-Awesome-Elite@main/css/fontawesome-elite.css" integrity="" crossorigin="anonymous">
+```
+
+This file also contains the core CSS file (**fontawesome.css**) of Font Awesome Elite.
+
 #### Using :
 
 ***
