@@ -74,6 +74,12 @@ This file also contains the core CSS file (**fontawesome.css**) of Font Awesome 
 
 ***
 
+## Versioning
+
+Font Awesome Elite uses the [Semantic Versioning](https://semver.org) (SemVer) standard for versioning.
+
+***
+
 ## License
 
 [License](https://github.com/elmarmehrabov/Font-Awesome-Elite/blob/main/LICENSE)
