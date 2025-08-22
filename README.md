@@ -22,6 +22,8 @@ To use Font Awesome Elite, use its CDN links or download it locally.
 
 #### Using CDN :
 
+Font Awesome Elite uses jsDelivr for CDN.
+
 To use Font Awesome Elite, you can use its CDN links :
 
 ```html
