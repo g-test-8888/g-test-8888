@@ -10,6 +10,8 @@ Font Awesome Elite supports all icons from Font Awesome's [Free](https://fontawe
 
 Font Awesome Elite uses [Font Awesome documentation](https://docs.fontawesome.com).
 
+The development of Font Awesome Elite follows the development of Font Awesome, and the core of Font Awesome Elite has the same structure as the core of Font Awesome. Thus, Font Awesome Elite uses the Font Awesome documentation.
+
 ***
 
 ## Usage
