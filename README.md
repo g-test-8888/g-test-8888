@@ -72,6 +72,12 @@ This file also contains the core CSS file (**fontawesome.css**) of Font Awesome 
 
 #### Local use :
 
+To use Font Awesome Elite, you can download it locally.
+
+To do this, first download the **font-awesome-elite-x.x.x.zip** file, the latest version of Font Awesome Elite, from the [Releases]() page. The **font-awesome-elite-x.x.x.zip** file is the **font-awesome-elite-x.x.x** folder. This folder contains a **css** folder containing the CSS files for all icon families, and a **webfonts** folder containing the font files for all icon families.
+
+Include the core CSS file (**fontawesome.css**) of Font Awesome Elite and the CSS file (*for example **light.css***) of the icon family you want to use, or the CSS files (*for example **thin.css**, **duotone-thin.css**, **notdog-solid.css**, etc.*) of the icon families you want to use, in the `<head>` element of your project with `<link>` elements.
+
 ***
 
 ## Versioning
