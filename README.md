@@ -6,7 +6,7 @@ Font Awesome Elite supports all icons from Font Awesome's [Free](https://fontawe
 
 ***
 
-## Documentation
+## :blue_book: Documentation
 
 Font Awesome Elite uses [Font Awesome documentation](https://docs.fontawesome.com).
 
