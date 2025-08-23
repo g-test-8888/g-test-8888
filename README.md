@@ -76,7 +76,7 @@ To use Font Awesome Elite, you can download it locally. Using Font Awesome Elite
 
 To do this, first download the **font-awesome-elite-x.x.x.zip** file, the latest version of Font Awesome Elite, from the [Releases]() page. The **font-awesome-elite-x.x.x.zip** file is the **font-awesome-elite-x.x.x** folder. This folder contains a **css** folder containing the CSS files for all icon families, and a **webfonts** folder containing the font files for all icon families. Extract the downloaded **font-awesome-elite-x.x.x.zip** file to a location of your choice in your project.
 
-So, you can use Font Awesome Elite natively in your project by adapting the references of the following <link> elements to your project :
+So, you can use Font Awesome Elite natively in your project by adapting the references of the following `<link>` elements to your project :
 
 ```html
 <!-- Font Awesome Elite's core CSS file -->
