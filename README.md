@@ -124,7 +124,7 @@ This file also contains the core CSS file (**fontawesome.css**) of Font Awesome 
 
 #### :large_blue_circle: Using icon :
 
-For example, it is shown below how you can use the **[file icon](https://fontawesome.com/icons/file?f=classic&s=solid)** in the light style of the duotone icon family in your project :
+For example, it is shown below how you can use the [file icon](https://fontawesome.com/icons/file?f=classic&s=solid) in the light style of the duotone icon family in your project :
 
 ```html
 <i class="fa-duotone fa-light fa-file"></i>
