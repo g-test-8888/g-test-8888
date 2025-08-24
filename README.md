@@ -120,8 +120,6 @@ If you are going to use all icon families in your project, copy the `<link>` ele
 
 This file also contains the core CSS file (**fontawesome.css**) of Font Awesome Elite.
 
-***
-
 #### Using icons :
 
 ***
