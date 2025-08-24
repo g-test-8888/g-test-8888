@@ -1,4 +1,4 @@
-# :blue_square: Font Awesome Elite
+# Font Awesome Elite
 
 Font Awesome Elite for [all Font Awesome icons](https://fontawesome.com/icons)!
 
