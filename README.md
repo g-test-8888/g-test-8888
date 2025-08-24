@@ -141,3 +141,5 @@ Font Awesome Elite uses the [Semantic Versioning](https://semver.org) (SemVer) s
 ## :page_facing_up: License
 
 [License](https://github.com/elmarmehrabov/Font-Awesome-Elite/blob/main/LICENSE)
+
+## :computer: Developer :
