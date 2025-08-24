@@ -124,7 +124,7 @@ This file also contains the core CSS file (**fontawesome.css**) of Font Awesome 
 
 ***
 
-## :package: Versioning
+## :round_pushpin: Versioning
 
 Font Awesome Elite uses the [Semantic Versioning](https://semver.org) (SemVer) standard for versioning.
 
