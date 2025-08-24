@@ -63,6 +63,7 @@ Copy the `<link>` element that serves the core CSS file (**fontawesome.css**) of
 If you are going to use all icon families in your project, copy the `<link>` element that serves the **fontawesome-elite.css** file, which contains the CSS files for all icon families, inside the `<head>` element of your project :
 
 ```html
+<!-- CSS file of all icon families of Font Awesome Elite -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/elmarmehrabov/Font-Awesome-Elite@main/css/fontawesome-elite.css" integrity="" crossorigin="anonymous">
 ```
 
@@ -115,6 +116,7 @@ Copy the `<link>` element of the core CSS file (**fontawesome.css**) of Font Awe
 If you are going to use all icon families in your project, copy the `<link>` element of the **fontawesome-elite.css** file, which contains the CSS files for all icon families, inside the `<head>` element of your project. Then adapt the reference of that `<link>` element to your project :
 
 ```html
+<!-- CSS file of all icon families of Font Awesome Elite -->
 <link rel="stylesheet" href="your-path/font-awesome-elite-x.x.x/css/fontawesome-elite.css">
 ```
 
