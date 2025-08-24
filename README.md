@@ -130,6 +130,8 @@ For example, it is shown below how you can use the file icon in the light style 
 <i class="fa-duotone fa-light fa-file"></i>
 ```
 
+Also, for example, in the **[index.html]()** file inside the **test** folder of the repository, with all icon families and all icon styles usage forms of the file icon are shown.
+
 You can learn more about how to use icons in your project on the [How To Add Icons](https://docs.fontawesome.com/web/add-icons/how-to) page of the Font Awesome documentation.
 
 ***
