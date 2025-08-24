@@ -146,4 +146,4 @@ Font Awesome Elite uses the [Semantic Versioning](https://semver.org) (SemVer) s
 
 ## :computer: Developer :
 
-[Elmar Mehrabov](https://github.com/elmarmehrabov) GitHub
+[Elmar Mehrabov](https://github.com/elmarmehrabov)
