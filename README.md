@@ -70,7 +70,7 @@ If you are going to use all icon families in your project, copy the `<link>` ele
 
 This file also contains the core CSS file (**fontawesome.css**) of Font Awesome Elite.
 
-#### :desktop_computer: Local use :
+#### :computer: Local use :
 
 To use Font Awesome Elite, you can download it locally. Using Font Awesome Elite locally is similar to using it from a CDN. The difference between using Font Awesome Elite locally and using it from a CDN is simply the paths to the CSS files.
 
