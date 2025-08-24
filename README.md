@@ -130,7 +130,7 @@ For example, it is shown below how you can use the [file icon](https://fontaweso
 <i class="fa-duotone fa-light fa-file"></i>
 ```
 
-Also, for example, the **[index.html](https://github.com/elmarmehrabov/Font-Awesome-Elite/blob/main/test/index.html)** file in the **test** folder of the repository shows the usage of the [font-awesome icon](https://fontawesome.com/icons/font-awesome?f=brands&s=solid) which is specific to the brands icon family, and the [house icon](https://fontawesome.com/icons/house?f=classic&s=solid) with all icon families and all icon styles.
+Also, for example, the **[index.html](https://github.com/elmarmehrabov/Font-Awesome-Elite/blob/main/test/index.html)** file in the **test** folder of the repository shows the local usage of the [font-awesome icon](https://fontawesome.com/icons/font-awesome?f=brands&s=solid) which is specific to the brands icon family, and the [house icon](https://fontawesome.com/icons/house?f=classic&s=solid) with all icon families and all icon styles.
 
 You can learn more about how to use icons in your project on the [How To Add Icons](https://docs.fontawesome.com/web/add-icons/how-to) page of the Font Awesome documentation.
 
