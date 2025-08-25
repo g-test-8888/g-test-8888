@@ -1,0 +1,33 @@
+/*!
+ * Font Awesome Elite 1.0.0
+ * License : https://github.com/elmarmehrabov/Font-Awesome-Elite/blob/main/LICENSE
+ * Developer : https://github.com/elmarmehrabov
+*/
+
+:host,
+:root {
+    --fa-family-chisel: "Font Awesome 7 Chisel";
+    --fa-font-chisel-regular: normal 400 1em/1 var(--fa-family-chisel);
+    --fa-style-family-chisel: var(--fa-family-chisel);
+}
+
+@font-face {
+    font-family: "Font Awesome 7 Chisel";
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url(../webfonts/fa-chisel-regular-400.woff2);
+}
+
+.facr {
+    --fa-style: 400;
+}
+
+.fa-chisel,
+.facr {
+    --fa-family: var(--fa-family-chisel);
+}
+
+.fa-regular {
+    --fa-style: 400;
+}

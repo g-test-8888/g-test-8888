@@ -1,0 +1,33 @@
+/*!
+ * Font Awesome Elite 1.0.0
+ * License : https://github.com/elmarmehrabov/Font-Awesome-Elite/blob/main/LICENSE
+ * Developer : https://github.com/elmarmehrabov
+*/
+
+:host,
+:root {
+    --fa-family-sharp: "Font Awesome 7 Sharp";
+    --fa-font-sharp-thin: normal 100 1em/1 var(--fa-family-sharp);
+    --fa-style-family-sharp: var(--fa-family-sharp);
+}
+
+@font-face {
+    font-family: "Font Awesome 7 Sharp";
+    font-style: normal;
+    font-weight: 100;
+    font-display: block;
+    src: url(../webfonts/fa-sharp-thin-100.woff2);
+}
+
+.fast {
+    --fa-style: 100;
+}
+
+.fa-sharp,
+.fast {
+    --fa-family: var(--fa-family-sharp);
+}
+
+.fa-thin {
+    --fa-style: 100;
+}
